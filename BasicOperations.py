@@ -23,7 +23,3 @@ def pow(a, b, l):
     
     return result
 
-# k=2**2053
-# result_bin = pow(random.randint(1,k), k, k)
-# print("Binary result:", result_bin)
-
